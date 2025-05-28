@@ -6,6 +6,10 @@ This is the landing page for the Past and Future Climates Group at UC Santa Barb
 
 ## Repositories
 
+- [Data Pre-Processing](https://github.com/Past-And-Future-Climates-Group/Data_preprocessing)
+- [Time Series Analysis](https://github.com/Past-And-Future-Climates-Group/Time_Series_Analysis)
+- [Plot Features](https://github.com/Past-And-Future-Climates-Group/Plot_Features)
+
 
 You can also see our [group spreadsheet](https://docs.google.com/spreadsheets/d/1W6OtFwGalfZbcS1FeJfn9cSb3Nek5gsQU_Tb80xPDrQ/edit?gid=0#gid=0) for more details about where to find different codes!
 
