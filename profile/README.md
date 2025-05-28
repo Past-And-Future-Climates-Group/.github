@@ -7,6 +7,8 @@ This is the landing page for the Past and Future Climates Group at UC Santa Barb
 ## Repositories
 
 
+You can also see our [group spreadsheet](https://docs.google.com/spreadsheets/d/1W6OtFwGalfZbcS1FeJfn9cSb3Nek5gsQU_Tb80xPDrQ/edit?gid=0#gid=0) for more details about where to find different codes!
+
 ---
 
 ## Links to Other Group Resources
